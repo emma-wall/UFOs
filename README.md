@@ -5,7 +5,7 @@ The purpose of this repo was to create a website that would display UFO sighting
 
 ## Results
 To filter the table, simply input criteria in the input fields on the page. In the image below, the user was looking for UFO sightings in CA with the shape of a triangle. 
-![Screen Shot 2021-07-03 at 10 40 39 AM](https://user-images.githubusercontent.com/80648379/124395026-e566e980-dccf-11eb-82f7-ec606fa823d0.png)
+![Screen Shot 2021-07-04 at 9 01 15 PM](https://user-images.githubusercontent.com/80648379/124404947-0c8edc80-dd0b-11eb-8dc5-658ea6d1caae.png)
 
 
 ## Summary 
