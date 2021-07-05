@@ -9,6 +9,6 @@ To filter the table, simply input criteria in the input fields on the page. In t
 
 
 ## Summary 
-Overall this is a functional website, but has some limitations. First, the data is very limited and only spans from 1/1/2010 - 1/13/2010. 
+Overall this is a functional website, but has some limitations. First, the data is very limited and only spans from 1/1/2010 - 1/13/2010. The data also needs to be cleaned up making the duration consistent and cleaning up the comments section. 
 
-To improve this webpage, I would add a clear filter button to return to the original table with all the sightings, this way the user would not have to delete each field manually. I would also 
+It is not clear that if you click the ‘UFO Sightings’ on the top of the page it will clear the data, so to improve this, I would add a clear filter button to return to the original table with all the sightings, this way the user would not have to delete each field manually. I would also improve this page by adding a filter function to the city, state, country, shape and duration columns, what way the user can look at all of the data by the various columns instead of filtering .
